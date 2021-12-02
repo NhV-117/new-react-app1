@@ -1,0 +1,14 @@
+
+body{
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to bottom, #ddf0f0, #a2dff3, #77c8ff, #82a8ff, #b57bee);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.var {
+  heigth: 90vh;
+}
